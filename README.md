@@ -15,8 +15,8 @@ To gain a rock-solid understanding of Git and GitHub, implement modern developme
 
 ## 📚 Study Modules (Roadmap)
 
-- [ ] **Module 1:** Introduction to Git and GitHub
-- [ ] **Module 2:** Working with GitHub Repositories
+- [x] **Module 1:** Introduction to Git and GitHub 🏆 *(Completed)*
+- [ ] **Module 2:** Introduction to GitHub Administration
 - [ ] **Module 3:** Collaboration & Pull Requests
 - [ ] **Module 4:** Modern Development Practices & Branching
 - [ ] **Module 5:** Project Management (Issues, Milestones, Boards)
@@ -30,7 +30,13 @@ To gain a rock-solid understanding of Git and GitHub, implement modern developme
 | Day | Date | Topic Covered | Link to Notes |
 | :---: | :---: | :--- | :--- |
 | **00** | 25-Apr-2026 | Initialized Repo & Roadmap Setup | [Day 0 Readme](#) |
-| **01** | 26-Apr-2026 | *Coming Soon* | *Coming Soon* |
+| **01** | 26-Apr-2026 | Intro to GitHub & Learning Objectives | [Notes](01-Introduction-to-GitHub/Day-01-Learning-Objectives.md) |
+| **02** | 26-Apr-2026 | What is GitHub & Its Core Components | [Notes](01-Introduction-to-GitHub/Day-02-What-is-GitHub.md) |
+| **03** | 27-Apr-2026 | Components of the GitHub Flow & Git Flow | [Notes](01-Introduction-to-GitHub/Day-03-GitHub-Flow-and-Git-Flow.md) |
+| **04** | 04-May-2026 | GitHub is a Collaborative Platform | [Notes](01-Introduction-to-GitHub/Day-04-Issues-and-Discussions.md) |
+| **05** | 05-May-2026 | GitHub Platform Management & Pages | [Notes](01-Introduction-to-GitHub/Day-05-Platform-Management.md) |
+| **06** | 06-May-2026 | Practical Exercise: A Guided Tour of GitHub | [Notes](01-Introduction-to-GitHub/Day-06-Practical-Exercise.md) |
+| **07** | 07-May-2026 | Module 1 Summary & Certification Badge 🏆 | [Notes](01-Introduction-to-GitHub/Day-07-Module-Summary.md) |
 
 ---
 *Created with dedication for continuous learning.* 💡
