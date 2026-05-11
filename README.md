@@ -16,7 +16,7 @@ To gain a rock-solid understanding of Git and GitHub, implement modern developme
 ## 📚 Study Modules (Roadmap)
 
 - [x] **Module 1:** Introduction to Git and GitHub 🏆 *(Completed)*
-- [ ] **Module 2:** Introduction to GitHub Administration
+- [x] **Module 2:** Introduction to GitHub Administration 🏆 *(Completed)*
 - [ ] **Module 3:** Collaboration & Pull Requests
 - [ ] **Module 4:** Modern Development Practices & Branching
 - [ ] **Module 5:** Project Management (Issues, Milestones, Boards)
@@ -37,6 +37,14 @@ To gain a rock-solid understanding of Git and GitHub, implement modern developme
 | **05** | 05-May-2026 | GitHub Platform Management & Pages | [Notes](01-Introduction-to-GitHub/Day-05-Platform-Management.md) |
 | **06** | 06-May-2026 | Practical Exercise: A Guided Tour of GitHub | [Notes](01-Introduction-to-GitHub/Day-06-Practical-Exercise.md) |
 | **07** | 07-May-2026 | Module 1 Summary & Certification Badge 🏆 | [Notes](01-Introduction-to-GitHub/Day-07-Module-Summary.md) |
+| **08** | 08-May-2026 | Intro to GitHub Administration | [Notes](02-GitHub-Administration/Day-08-Admin-Accounts-Intro.md) |
+| **09** | 09-May-2026 | GitHub Accounts and Plans | [Notes](02-GitHub-Administration/Day-09-Accounts-and-Plans.md) |
+| **10** | 10-May-2026 | GitHub Mobile and GitHub Desktop | [Notes](02-GitHub-Administration/Day-10-Mobile-and-Desktop.md) |
+| **11** | 11-May-2026 | GitHub Billing and Payments | [Notes](02-GitHub-Administration/Day-11-GitHub-Billing.md) |
+| **12** | 12-May-2026 | License Usage Stats | [Notes](02-GitHub-Administration/Day-12-License-Usage-Stats.md) |
+| **13** | 13-May-2026 | Machine & Peripheral Device Licenses | [Notes](02-GitHub-Administration/Day-13-Machine-Peripheral-Licenses.md) |
+| **14** | 14-May-2026 | Metered Usage Reports | [Notes](02-GitHub-Administration/Day-14-Metered-Usage-Reports.md) |
+| **15** | 15-May-2026 | Module 2 Summary & Certification Badge 🏆 | [Notes](02-GitHub-Administration/Day-15-Module-Summary.md) |
 
 ---
 *Created with dedication for continuous learning.* 💡
